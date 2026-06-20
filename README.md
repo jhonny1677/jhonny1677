@@ -11,7 +11,7 @@
 
 ### About Me
 
-- 🎓 Computer Science student at the **University of British Columbia**, Vancouver
+- 🎓 Computer Science student at the **University of British Columbia**, Vancouver, Canada
 - 🤖 Passionate about **Machine Learning** and **Data Science** — building predictive models and extracting insights from real-world data
 - 📱 Also love building full-stack and mobile apps with **React Native**, the **MERN stack**, and **TypeScript**
 - 🌱 Currently exploring **deep learning** and **NLP**
