@@ -1,17 +1,15 @@
-<h1 align="center">Hi, I'm Ankit Aggarwal 👋</h1>
-<h3 align="center">CS Student @ UBC &nbsp;·&nbsp; ML & Data Science &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Vancouver, Canada</h3>
+# Hi, I'm Ankit Aggarwal 👋
 
-<p align="center">
-  <a href="mailto:ankit.acoolguy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/jhonny1677"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+**CS Student @ University of British Columbia · Vancouver, Canada**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankit.acoolguy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhonny1677)
 
 ---
 
-### About Me
+## About Me
 
-- 🎓 Computer Science student at the **University of British Columbia**, Vancouver, Canada
+- 🎓 Computer Science student at the **University of British Columbia**, Vancouver
 - 🤖 Passionate about **Machine Learning** and **Data Science** — building predictive models and extracting insights from real-world data
 - 📱 Also love building full-stack and mobile apps with **React Native**, the **MERN stack**, and **TypeScript**
 - 🌱 Currently exploring **deep learning** and **NLP**
@@ -19,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **ML & Data Science**
 
@@ -47,7 +45,7 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -60,14 +58,11 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonny1677&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonny1677&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonny1677&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonny1677&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-<p align="center">⭐ If you find my work interesting, feel free to star a repo or connect!</p>
+⭐ If you find my work interesting, feel free to star a repo or connect!
